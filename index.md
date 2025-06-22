@@ -4,15 +4,15 @@ title: Home
 sidebar: false
 ---
 
-[About](/about/) · [Quotes](/quotes/)
+[About](/about/)
+[Quotes](/quotes/)
 
----
-
-## Welcome!
+Welcome!
 
 I’m George, and this is my website.
 
 ---
+
 
 ### Latest Posts
 
