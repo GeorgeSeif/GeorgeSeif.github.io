@@ -4,8 +4,9 @@ title: Home
 sidebar: false
 ---
 
-[About](/about/)
-[Quotes](/quotes/)
+- [About](/about/)
+- [Quotes](/quotes/)
+
 
 Welcome!
 
