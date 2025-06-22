@@ -12,8 +12,6 @@ Welcome!
 
 I’m George, and this is my website.
 
----
-
 
 ### Latest Posts
 
