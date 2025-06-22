@@ -1,6 +1,9 @@
 layout: page
+
 title: "About"
+
 permalink: /About
+
 
 Hi, I'm George. Nice to meet you!
 
