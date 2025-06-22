@@ -1,6 +1,6 @@
 theme: minima
 title: George Seif
 description: My little corner of the internet.
-nav_pages:
+header_pages:
   - About.md
   - Quotes.md
