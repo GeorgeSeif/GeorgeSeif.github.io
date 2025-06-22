@@ -1,3 +1,6 @@
+layout: page
+title: "About"
+permalink: /About
 Hi, I'm George. Nice to meet you!
 
 This is my little corner of the internet where I share my thoughts and things that I find interesting.
