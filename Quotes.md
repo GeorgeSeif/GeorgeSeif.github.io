@@ -13,3 +13,5 @@ _"Difficulties strengthen the mind, as labor does the body."_ – **Seneca**
 _"Thinking is the hardest work there is, which is probably the reason why so few engage in it."_ – **Henry Ford**
 
 _"Be guided by beauty. You might think 'building a company that’s trading bonds, what’s so aesthetic about that?' What’s aesthetic about it is doing it right. Getting the right kind of people, approaching the problem, and doing it right…it’s a beautiful thing to do something right."_ – **Jim Simons**
+
+_"We have two lives, and the second begins when we realize we only have one."_ – **Confucius**
