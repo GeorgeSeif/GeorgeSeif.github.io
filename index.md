@@ -6,7 +6,7 @@ sidebar: false
 
 - [About](/About/)
 - [Quotes](/Quotes/)
-- [Blog](/posts/)
+- [Blog Posts](/Blog/)
 
 
 Welcome!
