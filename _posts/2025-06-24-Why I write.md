@@ -1,8 +1,9 @@
+---
 layout: post
 title: Why I Write
 date: 2025-06-24
 categories: General Reflections
-
+---
 I've been writing for a while now.
 
 It started when I was 20 years old, in my 3rd year of University. Some how, I wanted to improve my life in just about every dimension: fitness, finances, career, skills, relationships, and overall satisfaction. I had no idea how to go about doing that. And so as a way of brainstorming I started to write!
