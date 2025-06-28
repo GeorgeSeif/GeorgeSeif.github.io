@@ -4,6 +4,7 @@ title: Communicating Ideas Effectively
 date: 2025-06-28
 categories: Communication Books
 ---
+
 _[Get to the Point!](https://www.goodreads.com/book/show/34057051-get-to-the-point)_ by Joel Schwartzberg is the best book I've ever read on communicating ideas effectively. True to the title, it's short (128 small pages, a mere 2 hour audiobook) but direct in explaining the practical communication techniques. 
 
 My notes from the book (but you should read the whole thing!):
